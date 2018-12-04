@@ -1,0 +1,33 @@
+.tr-kvt td {
+    line-height: 70px !important;
+    vertical-align: middle;
+}
+
+/*css phân quan ly tour --view*/
+.chitiet-tour {
+    width: 90px;
+}
+
+.chitiet-tour p  {
+    height: 100px;
+    overflow: scroll;
+    overflow-x: hidden;
+    text-align: justify;
+}
+.ten_tour {
+    font-weight: bold;
+}
+.gia_tour {
+    color: red;
+    font-weight: 300;
+}
+/*css khach san view*/
+.chitiet_ks {
+	width: 300px;
+}
+.chitiet_ks p {
+	height: 100px;
+    overflow: scroll;
+    overflow-x: hidden;
+    text-align: justify;
+}
