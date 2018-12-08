@@ -569,3 +569,23 @@ form.form-lien-he .form-group input,form.form-lien-he .form-group textarea {
 .lien-he {
     margin-left: 30px;
 }
+
+@media screen and (max-width: 700px) {
+    .myCarousel {
+        height: 300px;
+    }
+    .carousel-inner .item img {
+        height: 300px;
+    }
+    .tieu-de-top {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 700px) {
+    .box-tour-dl .tour-img img {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        height: 100%;
+    }
+}
